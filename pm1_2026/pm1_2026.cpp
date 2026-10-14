@@ -7,7 +7,7 @@ int main()
 {
     printf( "Hello World!!!!!!\n");
 
-    printf("HelloっつってんだろWorld!!!!!!\n");
+    printf("Helloっつってんだろ PullRequest World!!!!!!\n");
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
