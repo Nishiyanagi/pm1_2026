@@ -2,12 +2,12 @@
 //
 
 #include <iostream>
-
+#include <stdio.h>
 int main()
 {
-    std::cout << "Hello World!!!!!!\n";
+    printf( "Hello World!!!!!!\n");
 
-    std::cout << "HelloっつってんだろWorld!!!!!!\n";
+    printf("HelloっつってんだろWorld!!!!!!\n");
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
